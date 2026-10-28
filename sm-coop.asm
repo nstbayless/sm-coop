@@ -1173,7 +1173,7 @@ TopPoseByP2DPad_RunningLeft:
     dw $1004 ; U
     dw $000F ; UR
     dw $0010 ; UL
-    dw 610   ; URL -- FIXME, double check this
+    dw $0010 ; URL
     dw $000C ; UD
     dw $0001 ; UDR
     dw $000C ; UDL
