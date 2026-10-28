@@ -1,4 +1,4 @@
-# Super Metroid Co-Op (two samuses in a trench-coat)
+# Super Metroid Co-Op (two Samuses in a trench coat)
 
 One player controls the legs, one player controls the arms. This may end up in some horrific spine-bending action for poor Samus:
 
